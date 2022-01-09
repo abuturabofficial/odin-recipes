@@ -1,0 +1,41 @@
+body {
+  background-color: #acbcc4;
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  background-color: #89a830;
+  font-family: 'Sofia';
+  font-size: 42px;
+}
+
+h3 {
+  color: white;
+  background-color: #50c58f;
+  font-family: 'Sofia';
+  font-size: 28px;
+}
+
+img {
+  height: 300px;
+  width: 400px;
+}
+
+ul {
+  list-style: square;
+  list-style-position: outside;
+  text-align: left;
+}
+
+ol {
+  text-align: justify;
+}
+
+.contents {
+  text-align: center;
+  list-style-position: inside;
+  line-height: 1.5;
+}
